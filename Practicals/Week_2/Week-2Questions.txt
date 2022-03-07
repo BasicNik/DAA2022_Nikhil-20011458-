@@ -1,0 +1,9 @@
+Q1. Given a sorted array of positive integers containing few duplicate elements design a algorithm 
+and implement it using a program to find whether the given key is present or not in the array 
+if it is present find out the no. of copies of the given key?
+
+Q2. Given a sorted array of positive integers design a algorithm and implement it using a program 
+to find three indexes i,j,k such that (array [i] + array [j] = array [k])?
+
+Q3.Given an array of no negative integers design an algorithm to count the no. of parents of 
+integers such that there differnces is equal to the given key?
