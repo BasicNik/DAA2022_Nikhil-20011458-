@@ -1,0 +1,11 @@
+Q.Program to replace all 0's wiht 1 in a given integer.
+  Given an integer as an input, all the 0's in the number has to be replaced with 1.
+  For example, consider the following number
+
+Input: 1024505
+Output: 112415
+Input:56004
+Output:56114
+
+Q.Write a program to input two numbers and chech whether they are friendly pair or not.
+For example : 6 & 28 and sum of their divisors divided with the respective numbers are the same.
