@@ -1,0 +1,8 @@
+Q1. Print an array into zigzag pattern. Suppose you were given an array of integers, and you are told to sort 
+the integers in a zigzag patter. In general, in a zigzag pattern, the first integer is less than the second integer, which
+is greater than the third integer, which is less than the fourth integer , and so on.
+Hence the converted array should be in the form of e1<e2>e3<e4>e5<e6.
+
+Test cases: 
+
+437621
